@@ -1,0 +1,70 @@
+aah1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 40px;
+}
+
+
+body {
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: azure;
+    
+
+
+}
+img {
+    height: auto;
+    width: 1000px;
+    
+    margin-left: 150px;
+    margin-right: auto;
+    
+}
+
+#uvod {
+    font-size: 10px;
+}
+h2 {
+    font-size: 25px;
+}
+
+#list {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#vzdelanie {
+    font-size: 17px;
+
+    
+}
+
+h4 {
+    font-size: 25px;
+
+}
+
+#zdravotna {
+    font-size: 17px;
+
+}
+#ab {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+
+a { 
+    background-color: lightcoral;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  position: relative;
+  margin-left: 600px;
+}

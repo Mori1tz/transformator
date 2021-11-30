@@ -1,0 +1,43 @@
+body {
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: azure;
+    }
+#hore {
+    font-size: 20px;
+        text-align: left;
+}
+#uvod {
+        font-size: 20px;
+        text-align: left;
+    }
+
+#jadra {
+    font-size: 20px;
+    text-align: left;
+    width: 500px;
+}
+h2 {
+    font-size: 20px;
+}
+
+#material{
+    font-size: 20px;
+    text-align: left;
+    width: 500px;
+}
+h4 {
+    font-size: 20px;
+}
+
+#tvaru{
+    font-size: 20px;
+    text-align: left;
+    width: 500px;
+}
+
+img {
+    margin: auto;
+    display: flex;
+    width: auto;
+}
